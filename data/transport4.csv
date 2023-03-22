@@ -1,0 +1,8 @@
+origin,destination,type,price,duration
+Paris,Barcelona,train,45,175
+Paris,Lisbon,plane,1,1
+Lisbon,Berlin,plane,1,1
+Berlin,London,plane,1,1
+London,Barcelona,plane,1,1
+London,Madrid,plane,100,100
+Barcelona,The Hague,plane,100,100

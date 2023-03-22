@@ -1,0 +1,33 @@
+written_responses.txt
+
+Task 3B:
+We have chosen to defend Time. We feel that it benefits the customers and drivers more to expend the least amount of
+time on each order. If an order takes less time, the customer is more satisfied with the arrival of their order in a
+timely manner, and the driver is able to take more orders in the same block of time that they are working, allowing for
+the potential for more earnings.
+One concern is fuel-efficiency. Many times, the fastest routes could involve interstate highway travel that adds
+unnecessary mileage onto a trip, requiring more fuel.
+Additionally, driving with excessive maneuvers and turns could contribute to traffic and gridlock in urban areas. These
+undesirable developments will not reflect well upon the company.
+
+Task 3C:
+- drivers
+- customers
+- restaurant management
+- restaurant staff
+- the city / municipality
+- developers who are employed
+- residents of the municipality
+
+Task 3D:
+The provided stakeholders are simply more specific than ours. We thought in broad terms of how the app would immediately
+impact the surrounding and affected community while this list goes a bit further and gives more details.
+
+Task 3E:
+Our choice prioritizes the drivers, customers, and restaurants who participate in the app. This is because decreased
+time per order will result in more capacity for orders. That can make customers happier, produce more revenue for
+restaurants, and create opportunities for drivers. Additionally, increased revenue and good reputation will help the
+developers and executives who provide the app.
+At the same time, pedestrians and drivers will be adversely affected. They will have to deal with increased traffic that
+is not necessarily efficient traffic in mileage. Additionally, non-participating restaurants will lose market-share
+to those who participate. This could cause them to be at a disadvantage economically.

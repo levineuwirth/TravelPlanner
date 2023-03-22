@@ -1,0 +1,10 @@
+origin,destination,type,price,duration
+New York City,Albany,train,45,175
+New York City,New Paltz,bus,20,60
+New York City,Buffalo,plane,250,40
+New York City,Rochester,train,120,250
+Albany,Rochester,bus,10,50
+Albany,Buffalo,train,50,380
+New Paltz,Albany,bus,20,65
+Albany,New York City,train,45,175
+Buffalo,Albany,train,50,380
